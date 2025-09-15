@@ -1,2 +1,2 @@
-# ornitogames
-Repositorio del canal de Youtube Ornitogames
+# OrnitoGames | Comunidad indie
+Aprende, juega y crea
