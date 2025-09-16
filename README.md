@@ -1,85 +1,63 @@
-# 🎮 OrnitoGames | Aprende a programar Videojuegos
+# 🎮 OrnitoGames — Crea videojuegos desde cero
 
 [![OrnitoGames GitHub Profile](ornitogames_github_profile.png)](https://github.com/devTever/ornitogames)
 
-**Ornitogames** es un proyecto de innovación educativa y desarrollo de videojuegos, donde combinamos la pasión por jugar con el aprendizaje.  
-Nuestro objetivo es crear experiencias interactivas, accesibles y divertidas para la comunidad educativa y gamer.
+**OrnitoGames** es un proyecto de innovación educativa y desarrollo de videojuegos. Unimos la pasión por jugar con el aprendizaje práctico para crear experiencias interactivas, accesibles y divertidas, pensadas tanto para la comunidad educativa como para quienes aman los videojuegos.
 
 ---
 
-## 🚀 Objetivos del Proyecto
+## 🚀 Objetivos
 
-- Desarrollar videojuegos educativos y de entretenimiento.  
-- Documentar el proceso de desarrollo para servir como material de aprendizaje.  
-- Fomentar la colaboración entre profesoras/es, alumnas/os y creadoras/es.  
-- Compartir código abierto, recursos y tutoriales.  
-
----
-
-## 🦦 Nuestra Filosofía
-
-Ornitogames nace con la idea de que **aprender puede ser una aventura**.  
-A través de videojuegos, misiones y experimentación, buscamos:  
-
-- 💡 Innovar en el aula y fuera de ella.  
-- 📚 Crear materiales abiertos y colaborativos.  
-- 🕹️ Usar el juego como motor de aprendizaje.  
+- 🎮 Desarrollar videojuegos educativos y de entretenimiento.  
+- 📖 Documentar el proceso como material de aprendizaje.  
+- 🤝 Fomentar la colaboración entre profesorado, alumnado y creadoras/es.  
+- 🌍 Compartir recursos, tutoriales y código abierto.  
 
 ---
 
-## 📂 Estructura del Repositorio
+## 🦦 Filosofía
 
-- `docs/` → Documentación, tutoriales y guías.  
-- `src/` → Código fuente de los proyectos.  
-- `assets/` → Recursos gráficos, audio y multimedia.  
-- `examples/` → Ejemplos prácticos y prototipos.  
+Creemos que **aprender debe sentirse como una aventura**.  
+Con videojuegos, misiones y experimentación buscamos:  
+
+- 💡 Innovar dentro y fuera del aula.  
+- 📚 Generar materiales abiertos y colaborativos.  
+- 🕹️ Usar el juego como motor del aprendizaje.  
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🫶​ Síguenos
+
+[![YouTube](https://img.shields.io/badge/YouTube-OrnitoGames-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@OrnitoGames_dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-OrnitoGames-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/ornitogames)  
+[![Discord](https://img.shields.io/badge/Discord-OrnitoGames-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1401974133117554689)
+
+---
+
+## 🛠️ Tecnologías
+
+Actualmente trabajamos con:
 
 - [Node.js](https://nodejs.org/)  
-- [Cocos Creator](https://www.cocos.com/en/creator)  
 - [Unity](https://unity.com/)  
-- [Java / Spring Boot](https://spring.io/projects/spring-boot)  
-- [Laravel](https://laravel.com/) + [React](https://react.dev/)  
 
-*(Se irán añadiendo más a medida que avance el proyecto.)*
-
----
-
-## 👥 Contribución
-
-1. Haz un **fork** del proyecto.  
-2. Crea una rama con tu función o corrección:  
-   ```bash
-   git checkout -b feature/nueva-funcionalidad
-   ```
-3. Haz un **commit** con tus cambios:  
-   ```bash
-   git commit -m "Agregada nueva funcionalidad X"
-   ```
-4. Haz un **push** a la rama:  
-   ```bash
-   git push origin feature/nueva-funcionalidad
-   ```
-5. Abre un **Pull Request**.  
+*(La lista crecerá conforme avance el proyecto.)*
 
 ---
 
 ## 📜 Licencia
 
 Este proyecto se publica bajo la licencia **Creative Commons BY-NC-SA 4.0**.  
-Puedes usar, modificar y compartir el contenido **con atribución, sin fines comerciales y compartiendo bajo la misma licencia**.  
+Puedes usar, modificar y compartir el contenido **con atribución, sin fines comerciales y manteniendo la misma licencia**.  
 
 ---
 
-## 🌐 Más sobre Ornitogames
+## 🌐 Enlaces
 
-- 🎥 Canal de YouTube: *[Próximamente]*  
-- 📰 Newsletter: *[Próximamente]*  
-- 📖 Documentación y materiales: *[Próximamente]*  
+- 🎥 Canal de YouTube → *Próximamente*  
+- 📰 Newsletter → *Próximamente*  
+- 📖 Materiales y documentación → *Próximamente*  
 
 ---
 
-> 🦦 *Ornitogames: donde el aprendizaje y el juego se encuentran.*
+> 🦦 **OrnitoGames: donde aprender y jugar se encuentran.**
