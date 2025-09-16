@@ -1,0 +1,44 @@
+OrnitoGames — Licencia dual
+===========================
+
+Este repositorio está publicado bajo un esquema de doble licencia, dependiendo del tipo de contenido:
+
+1. CÓDIGO FUENTE (carpetas: src/, examples/)
+   ------------------------------------------
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this software except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+
+2. DOCUMENTACIÓN Y MATERIALES (carpetas: docs/, assets/)
+   ------------------------------------------------------
+   Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+   You are free to:
+   - Share — copy and redistribute the material in any medium or format.
+   - Adapt — remix, transform, and build upon the material.
+
+   Under the following terms:
+   - Attribution (BY) — You must give appropriate credit.
+   - NonCommercial (NC) — You may not use the material for commercial purposes.
+   - ShareAlike (SA) — If you remix, transform, or build upon the material,
+     you must distribute your contributions under the same license.
+
+   Full license text:
+   https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+
+Resumen
+--------
+- El código fuente se publica bajo Apache License 2.0 (uso comercial permitido).
+- La documentación y materiales se publican bajo CC BY-NC-SA 4.0 (sin uso comercial, compartir igual).
+
+© OrnitoGames — 2025
