@@ -50,8 +50,7 @@ Este es el listado de nuestros proyectos:
 
 Los proyectos más completos se van a desarrollar a lo largo de un curso académico completo. Estos son los que estamos desarrollando:
 
-- Curso 25-26 => [Platys vs Penguins](https://github.com/devTever/platys-vs-penguins) => Juego con temática / estilo similar a Angry Birds pero con personalidad propia.
-
+- Curso 25-26 => [Platys vs Penguins](https://github.com/devTever/platys-vs-penguins) => Juego con estilo similar a Angry Birds pero con personalidad propia.
 
 ### 🛴 Minitutoriales + Juegos Cortos
 
