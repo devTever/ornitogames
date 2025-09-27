@@ -45,13 +45,28 @@ Actualmente trabajamos con:
 
 Este es el listado de nuestros proyectos:
 
+
+### 🚀​ Proyectos Anuales
+
+Los proyectos más completos se van a desarrollar a lo largo de un curso académico completo. Estos son los que estamos desarrollando:
+
+- Curso 25-26 => [Platys vs Penguins](https://github.com/devTever/platys-vs-penguins) => Juego con temática / estilo similar a Angry Birds pero con personalidad propia.
+
+
+### 🛴 Minitutoriales + Juegos Cortos
+
+Es importante desarrollar diferentes ejemplos de juegos y para ello tenemos los siguientes minitutoriales / juegos cortos:
+
+- [Crimen en Palacio](https://github.com/devTever/CrimenEnPalacio) => Aventura conversacional
+- [Pong](https://github.com/devTever/pong-unity) => Desarrollo del videojuego clásico  
+
 *(La lista crecerá conforme avancemos en el canal)*
 
 ---
 
 ## 📜 Licencia
 
-Este proyecto se publica bajo la licencia **Creative Commons BY-NC-SA 4.0**.  
+Los proyectos se publican bajo la licencia **Creative Commons BY-NC-SA 4.0**.  
 Puedes usar, modificar y compartir el contenido **con atribución, sin fines comerciales y manteniendo la misma licencia**.  
 
 ---
