@@ -63,6 +63,26 @@ Es importante desarrollar diferentes ejemplos de juegos y para ello tenemos los 
 
 ---
 
+## 💻​ Especificaciones Equipo para Desarrollo
+
+Si quieres realizar los proyectos que estamos desarrollando en Ornitogames necesitarás un equipo informático que permita hacer funcionar Unity.
+
+Las *especificaciones mínimas* para ese equipo son:
+- **CPU:** Intel i5 (8ª gen o más) / AMD Ryzen 5 (serie 3000 o más).
+- **RAM:** 8 GB (pero irás muy justo).
+- **GPU:** Gráfica integrada moderna (Intel Iris Xe o AMD Vega integrada) o dedicada básica (GTX 1050).
+- **Disco:** 256 GB SSD (mejor NVMe).
+- **SO:** Windows 10/11 64-bit, macOS Big Sur o Ubuntu 22.04.
+
+Si quieres Unity vaya más fluido y para proyectos 3D las *especificaciones recomendadas* son:
+- **CPU:** Intel i7 (11ª gen o más) / AMD Ryzen 7 (serie 5000 o más).
+- **RAM:** 16 GB.
+- **GPU:** Dedicada GTX 1660 / RTX 2060 o superior (también vale Radeon RX 6600).
+- **Disco:** 512 GB – 1 TB SSD NVMe.
+- **Pantalla:** Full HD (1920x1080), mejor con dos monitores.
+
+---
+
 ## 📜 Licencia
 
 Los proyectos se publican bajo la licencia **Creative Commons BY-NC-SA 4.0**.  
