@@ -40,24 +40,33 @@ Actualmente trabajamos con:
 
 ---
 
+## 🛴 Minitutoriales
 
-## 🎨 Proyectos
+Es importante desarrollar diferentes ejemplos de juegos y para ello tenemos los siguientes minitutoriales:
 
-Este es el listado de nuestros proyectos:
+- [Instalación Unity en 2025](https://www.youtube.com/watch?v=7yNGMrUsARs) => Instalación de Unity en 2025 con UnityHub
+- [Entorno de Desarrollo de Unity](https://github.com/devTever/entorno-desarrollo-unity) => Conoce el entorno de desarrollo de Unity
 
+*(La lista crecerá conforme avancemos en el canal)*
 
-### 🚀​ Proyectos Anuales
+---
+
+## 🎨 Juegos Cortos
+
+Juegos cortos donde aprender diferentes tipos de mecánicas y tipos de juegos:
+
+- [Pong](https://github.com/devTever/pong-unity) => Desarrollo del videojuego clásico
+- [Crimen en Palacio](https://github.com/devTever/CrimenEnPalacio) => Aventura conversacional
+
+*(La lista crecerá conforme avancemos en el canal)*
+
+---
+
+## 🚀 ​Proyectos Anuales
 
 Los proyectos más completos se van a desarrollar a lo largo de un curso académico completo. Estos son los que estamos desarrollando:
 
 - Curso 25-26 => [Platys vs Penguins](https://github.com/devTever/platys-vs-penguins) => Juego con estilo similar a Angry Birds pero con personalidad propia.
-
-### 🛴 Minitutoriales + Juegos Cortos
-
-Es importante desarrollar diferentes ejemplos de juegos y para ello tenemos los siguientes minitutoriales / juegos cortos:
-
-- [Pong](https://github.com/devTever/pong-unity) => Desarrollo del videojuego clásico
-- [Crimen en Palacio](https://github.com/devTever/CrimenEnPalacio) => Aventura conversacional
 
 *(La lista crecerá conforme avancemos en el canal)*
 
