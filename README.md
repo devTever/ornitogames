@@ -56,8 +56,8 @@ Los proyectos más completos se van a desarrollar a lo largo de un curso académ
 
 Es importante desarrollar diferentes ejemplos de juegos y para ello tenemos los siguientes minitutoriales / juegos cortos:
 
+- [Pong](https://github.com/devTever/pong-unity) => Desarrollo del videojuego clásico
 - [Crimen en Palacio](https://github.com/devTever/CrimenEnPalacio) => Aventura conversacional
-- [Pong](https://github.com/devTever/pong-unity) => Desarrollo del videojuego clásico  
 
 *(La lista crecerá conforme avancemos en el canal)*
 
